@@ -1,0 +1,6 @@
+{
+  "name": "Langkah Bersama",
+  "description": "Perencana Keuangan & Roadmap Hidup Bersama Haikal & Ummu, dilengkapi pencatatan cicilan motor Haikal dan analisa saran AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
